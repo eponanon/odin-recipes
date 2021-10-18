@@ -1,4 +1,18 @@
-.photo {
-    height: auto;
-    width: 100%;
+body {
+    background-color:burlywood;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+h1 {
+    text-align: center;
+    text-shadow: 3px 7px 10px cyan, 7px -12px 10px ghostwhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.photo {
+    width: 100%;
+    height: auto;
+    border-style: ridge;
+    border-radius: 5%;
+    }
+
