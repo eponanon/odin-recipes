@@ -1,0 +1,1 @@
+This project is a recipes webpage to satisfy requirements for the Odin Project's pedagogy. I expect to use basic html and css commands to make a functional website about recipes.
